@@ -1,9 +1,8 @@
 site_name: Cookbook
 theme:
   name: material
-
   icon:
-    repo: fontawesome/brands/fork-knife
+    logo: material/book
 
   palette:
     - scheme: default
@@ -23,3 +22,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
+extra:
+  generator: false
