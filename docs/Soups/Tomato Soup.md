@@ -11,9 +11,12 @@ Indulge your senses in our simple yet deeply satisfying Tomato Basil Soup. This 
 - Salt and pepper to taste
 - Fresh basil leaves
 
+!!! chillie
+    If you want to add some heat, you can add a tablespoon of harissa.
+
 ### Instructions
 
-!!! note
+!!! tip
     Using a soup maker is a great way to make this soup and requires a lot less effort, simply add all the ingredients to the soup maker and let it do the work for you.
 
 1. Start by dicing your tomatoes and onion and mincing your garlic cloves.
